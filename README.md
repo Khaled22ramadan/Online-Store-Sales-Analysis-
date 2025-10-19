@@ -15,7 +15,8 @@ This project is an interactive Excel dashboard designed to analyze sales data fo
 📌 Dashboard Design: Slicers for Interactivity, Custom Formatting
 
 # Preview
-![Dashboard Preview](Online store analysis/Dashboard.png)
+![Alt Text](folder_name/image_name.png)
+
 Usage
 Simply open the Excel file and use the interactive filters (slicers) to analyze different aspects of the sales data.
 
